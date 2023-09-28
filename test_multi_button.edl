@@ -1,0 +1,176 @@
+4 0 1
+beginScreenProperties
+major 4
+minor 0
+release 1
+x 799
+y 432
+w 173
+h 48
+font "helvetica-medium-r-18.0"
+ctlFont "helvetica-medium-r-12.0"
+btnFont "helvetica-bold-r-14.0"
+fgColor index 0
+bgColor index 3
+textColor index 0
+ctlFgColor1 index 1
+ctlFgColor2 index 7
+ctlBgColor1 index 19
+ctlBgColor2 index 21
+topShadowColor index 30
+botShadowColor index 35
+showGrid
+snapToGrid
+gridSize 5
+endScreenProperties
+
+# (Button)
+object activeButtonClass
+beginObjectProperties
+major 4
+minor 1
+release 0
+x 55
+y 10
+w 20
+h 20
+fgColor index 0
+onColor index 31
+offColor index 33
+inconsistentColor index 21
+topShadowColor index 30
+botShadowColor index 35
+controlPv "longoutPV"
+onLabel "1"
+offLabel "0"
+labelType "literal"
+font "helvetica-bold-r-14.0"
+objType "controls"
+controlBitPos 3
+endObjectProperties
+
+# (Button)
+object activeButtonClass
+beginObjectProperties
+major 4
+minor 1
+release 0
+x 30
+y 10
+w 20
+h 20
+fgColor index 0
+onColor index 31
+offColor index 33
+inconsistentColor index 21
+topShadowColor index 30
+botShadowColor index 35
+controlPv "longoutPV"
+onLabel "1"
+offLabel "0"
+labelType "literal"
+font "helvetica-bold-r-14.0"
+objType "controls"
+controlBitPos 4
+endObjectProperties
+
+# (Button)
+object activeButtonClass
+beginObjectProperties
+major 4
+minor 1
+release 0
+x 5
+y 10
+w 20
+h 20
+fgColor index 0
+onColor index 31
+offColor index 33
+inconsistentColor index 21
+topShadowColor index 30
+botShadowColor index 35
+controlPv "longoutPV"
+onLabel "1"
+offLabel "0"
+labelType "literal"
+font "helvetica-bold-r-14.0"
+objType "controls"
+controlBitPos 5
+endObjectProperties
+
+# (Button)
+object activeButtonClass
+beginObjectProperties
+major 4
+minor 1
+release 0
+x 130
+y 10
+w 20
+h 20
+fgColor index 0
+onColor index 31
+offColor index 33
+inconsistentColor index 21
+topShadowColor index 30
+botShadowColor index 35
+controlPv "longoutPV"
+onLabel "1"
+offLabel "0"
+labelType "literal"
+font "helvetica-bold-r-14.0"
+objType "controls"
+controlBitPos 0
+endObjectProperties
+
+# (Button)
+object activeButtonClass
+beginObjectProperties
+major 4
+minor 1
+release 0
+x 105
+y 10
+w 20
+h 20
+fgColor index 0
+onColor index 31
+offColor index 33
+inconsistentColor index 21
+topShadowColor index 30
+botShadowColor index 35
+controlPv "longoutPV"
+onLabel "1"
+offLabel "0"
+labelType "literal"
+font "helvetica-bold-r-14.0"
+objType "controls"
+controlBitPos 1
+endObjectProperties
+
+# (Button)
+object activeButtonClass
+beginObjectProperties
+major 4
+minor 1
+release 0
+x 80
+y 10
+w 20
+h 20
+fgColor index 0
+onColor index 31
+offColor index 33
+inconsistentColor index 21
+topShadowColor index 30
+botShadowColor index 35
+controlPv "longoutPV"
+onLabel "1"
+offLabel "0"
+labelType "literal"
+font "helvetica-bold-r-14.0"
+objType "controls"
+controlBitPos 2
+endObjectProperties
+
